@@ -19,3 +19,5 @@ manually?
 i changed this line
 
 lets check the changes in stage and last commit
+
+This line is part of newbranch
