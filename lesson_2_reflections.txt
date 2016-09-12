@@ -18,7 +18,11 @@ What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
 i changed this line
 
+
 lets check the changes in stage and last commit
 
+This line is part of newbranch
 
-I am not sure whethere this line will be added to the branch after merging
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+How do the diagrams help you visualize the branch structure?
