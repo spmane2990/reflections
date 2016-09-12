@@ -19,3 +19,6 @@ manually?
 i changed this line
 
 lets check the changes in stage and last commit
+
+
+I am not sure whethere this line will be added to the branch after merging
